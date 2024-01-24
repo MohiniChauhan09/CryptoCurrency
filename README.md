@@ -13,7 +13,7 @@ It display the following Features of Crypto:
 
 ----------------------------------------------------------------------------------------
 
-Technology used : Node.js , ExpressJs , Bootstrap5 , EJS
+Technology used : Node.js , ExpressJs , Bootstrap5 , EJS , CSS
 
 API used : CoinGecko
 
